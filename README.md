@@ -18,3 +18,12 @@ Cho file sv_tnut.sql (1.6MB)
 DEADLINE: 23H59:59 NGÀY 25/4/2025
 
 Ghi chú: Giải thích tại sao lại có SQL như vậy.
+### BÀI LÀM
+## Câu 1.
+- Bước 1: Mở phần mền sql
+- Bước 2 Tạo database mới, sau khi tạo xong chọn database sv_tnut ở góc trái tên ssms để đảm bảo thực hiện script đúng nới
+- Bước3: vào menu: file -> open-> file. chọn đến file sv_tnut.sql. Toàn bộ cript sẽ hiện lên màn hình
+- Bước 4: chạy toàn bộ cậu lệnh SQL
+- Bước 5. sau khi chạy xong sẽ thấy dữ liệu sinh viên đã được import vào bẳng SV
+## Câu 2.
+dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)
