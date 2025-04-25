@@ -25,6 +25,8 @@ Ghi chú: Giải thích tại sao lại có SQL như vậy.
 - Bước3: vào menu: file -> open-> file. chọn đến file sv_tnut.sql. Toàn bộ cript sẽ hiện lên màn hình
 - Bước 4: chạy toàn bộ cậu lệnh SQL
 - Bước 5. sau khi chạy xong sẽ thấy dữ liệu sinh viên đã được import vào bẳng SV
+![image](https://github.com/user-attachments/assets/5ef95c61-75f8-44c4-94be-536c08512c67)
+
 ## Câu 2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)
 ![image](https://github.com/user-attachments/assets/1d645c02-3ae8-4d74-bf88-0b3c1b6290fa)
 ## Câu 3. nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
