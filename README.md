@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8a485b7-d20a-43b0-82b9-1ba078dce263)# Bai6
+# Bai6
 ## Đề bài
 Bài tập 6: Hệ quản trị CSDL
 Chủ đề: Câu lệnh Select
